@@ -127,6 +127,7 @@ PAGE: PORTFOLIO
 }
 
 #bio {
+  display: block;
   clear: both;
 }
 
